@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lai</h1>
 <h3 align="center">A MERN developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lailajalil&theme=onedark" alt="lailajalil" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lailajalil&theme=onedark" alt="lailajalil" /></a> </p>
 
 - 🌱 I want to learn more about **React and animations**
 
